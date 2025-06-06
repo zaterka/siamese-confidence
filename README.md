@@ -1,5 +1,11 @@
 # Siamese Confidence Scoring
 
+<div align="center">
+  <img src="imgs/siamese-logo.png" alt="Siamese Confidence Scoring Logo" width="300">
+</div>
+
+<br>
+
 A pure NumPy implementation of neural network-based Siamese confidence scoring for embedding similarity classification. This library provides a robust, regularized approach to computing confidence scores for document classification tasks using high-dimensional vector embeddings.
 
 ## Overview

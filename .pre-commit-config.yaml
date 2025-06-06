@@ -8,7 +8,7 @@ repos:
     hooks:
     -   id: check-added-large-files
         args: ['--maxkb=1000']
-        exclude: 'examples/demo_model\.json'
+        exclude: 'examples/demo_model\.json|imgs/siamese-logo\.png'
     -   id: check-toml
     -   id: check-yaml
         args:
